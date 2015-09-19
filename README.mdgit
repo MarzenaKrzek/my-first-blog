@@ -1,0 +1,1 @@
+# my-first-blog  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/MarzenaKrzek/my-first-blog.gitgit push -u origin master
